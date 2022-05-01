@@ -5,9 +5,9 @@ for i in range(1, x + 1):
         a = a + 1
 
 if (a == 2):
-    print("prime")
+    print("The number is prime ")
 else:
-    print("composite")
+    print("The number is composite")
 
 #my first prject
 
