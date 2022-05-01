@@ -8,3 +8,6 @@ if (a == 2):
     print("prime")
 else:
     print("composite")
+
+#my first prject
+
