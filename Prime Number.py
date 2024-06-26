@@ -10,5 +10,4 @@ for i in range(1, x + 1):
 if (a == 2):
     print("The number is prime ")
 
-#my first prject
-
+#test file
